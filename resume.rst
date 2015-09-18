@@ -85,8 +85,25 @@ Recommendations
     to set up very precious validation processes previously inexistant, adding to the value of the product thru
     a dramatic increase in quality. Finally, he is a good leader knowing how and when to delegate and how
     to manage the resources at hand in the most efficient manner. I would add that I've also enjoyed Xavier's
-    cheerful and friendly attitude both on and off work. A real great addition to any development team ! 
+    cheerful and friendly attitude both on and off work. A real great addition to any development team !"
 
+- **Reginald Lips**, Lead Automation Engineer, Cloudmark, worked directly with Xavier at Cloudmark
+
+    "Xavier has made a tremendous impact at Cloudmark by developing a Test Automation
+    Framework for Cloudmark Security Platform. He's been handling the whole development
+    process of this framework which is now fully productized. Xavier made it possible
+    to test the product from A to Z, with tons of metrics: coverage, performance,
+    reporting, network dump and so on.
+    Xavier is also a Python Master and has a deep knowledge of tools for development and testing.
+    He’s a great team player, always got our backs to debug some tricky tests or add last minute features!"
+
+- **Steven Kisely**, Software Development Engineer in Test at CloudPassage, worked directly with Xavier at Cloudmark
+
+    "I had the pleasure of working with Xavier while at Cloudmark. Xavier built
+    and managed the entire automation framework from launching tests all the way
+    up to the Continuous Integration with Jenkins. Not only did it work but it
+    was able to scale up to running against dozens of systems and multiple
+    Operating Systems. Whoever Xavier works for will be lucky to have him."
 
 contact
 -------
