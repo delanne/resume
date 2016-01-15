@@ -3,5 +3,5 @@
 ```
 $ virtualenv sandbox
 $ source sandbox/bin/activate
-$ pip install rst2pdf
+$ pip install -r requirements.txt
 ```
