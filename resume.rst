@@ -8,7 +8,7 @@ Senior Software & Automation engineer
 
 +------------------------------------+----------------------+------------------+
 |:Address: France (Paris)            |:Born: 1978           |.. image :: id.png|
-|:Tel: +33 (0)608005723              |:Nationnality: French |   :scale: 70     |
+|:Tel: +33 (0)608005723              |:Citizenship: French  |   :scale: 70     |
 |:Email: xavier.delannoy@gmail.com   |                      |                  |
 +------------------------------------+----------------------+------------------+
 
